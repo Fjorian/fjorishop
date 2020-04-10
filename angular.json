@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fjorishop"
+    }
+  },
+  "defaultProject": "fjorishop",
+  "cli": {
+    "analytics": "ed95f1e9-6cc9-418c-b882-9da061c33bd7"
+  }
 }
